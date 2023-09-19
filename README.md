@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue.js-004088?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
+<img src="https://img.shields.io/badge/Vue.js-474747?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
