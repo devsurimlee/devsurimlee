@@ -3,8 +3,6 @@
 [<img src="https://img.shields.io/badge/Blog-013ADF?style=flat-square&logo=Cesium&logoColor=white"/></a>](https://devsurimlee.tistory.com/)
 <img src="https://img.shields.io/badge/devsurimlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<br>
-
 
 ##### 💎My Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
