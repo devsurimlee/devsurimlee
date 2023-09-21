@@ -1,10 +1,11 @@
-##### Hi there 👋
+Hi there 👋
 
 [<img src="https://img.shields.io/badge/Blog-013ADF?style=flat-square&logo=Cesium&logoColor=white"/></a>](https://devsurimlee.tistory.com/)
 <img src="https://img.shields.io/badge/devsurimlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-##### 💎My Skills
+💎My Skills
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
