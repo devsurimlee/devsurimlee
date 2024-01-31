@@ -1,7 +1,8 @@
 Hi there 👋
 
 [<img src="https://img.shields.io/badge/Blog-013ADF?style=flat-square&logo=Cesium&logoColor=white"/></a>](https://devsurimlee.tistory.com/)
-<img src="https://img.shields.io/badge/devsurimlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-devsurimlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devsurimlee@gmail.com)](mailto:devsurimlee@gmail.com)
+
 
 
 💎My Skills
